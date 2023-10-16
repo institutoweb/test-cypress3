@@ -1,0 +1,8 @@
+{
+    "sel_usuario": "'[name='usuario']'",
+    "sel_clave": "'[name='clave']'",
+    "sel_boton": "#btnIngresar",
+    "dato_usuario": "prueba",
+    "dato_clave": "12345"
+    
+}
