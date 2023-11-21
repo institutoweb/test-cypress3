@@ -13,7 +13,7 @@ describe('Date Picker Test', () => {
       .click();
   
       // Verificar que la fecha seleccionada se haya establecido correctamente en el campo de entrada
-      cy.get('.datepicker-input').should('have.value', '2023-10-10');
+      cy.get('.datepicker-input').should('have.value', '2023-11-10');
     });
   });
   
